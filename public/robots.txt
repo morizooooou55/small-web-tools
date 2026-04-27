@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://morizooooou55.github.io/small-web-tools/sitemap.xml

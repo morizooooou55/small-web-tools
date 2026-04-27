@@ -24,6 +24,7 @@ https://{owner}.github.io/{repo}/
 ```
 
 GitHub Actions では、リポジトリ名に応じて `NEXT_PUBLIC_BASE_PATH` と `NEXT_PUBLIC_SITE_URL` を自動設定します。
+`robots.txt` と `sitemap.xml` は GitHub Pages の公開URLに合わせて `public/` 配下の静的ファイルとして配置しています。
 
 ## ローカル確認
 
